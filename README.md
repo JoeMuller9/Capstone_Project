@@ -1,6 +1,8 @@
 # In-Demand Developer Skills Analysis
 
-A data analytics project built as the capstone for the **IBM Professional Data Analyst Certification**. The brief: act as a data analyst at a global IT and business consulting firm and identify which programming languages, database technologies and IDEs are currently most in demand, using the Stack Overflow Developer Survey alongside supplementary job-posting and salary data.
+A data analytics project built as the capstone for the **IBM Professional Data Analyst Certification**. 
+
+The brief: act as a data analyst at a global IT and business consulting firm and identify which programming languages, database technologies and IDEs are currently most in demand, using the Stack Overflow Developer Survey alongside supplementary job-posting and salary data.
 
 ## Overview
 
